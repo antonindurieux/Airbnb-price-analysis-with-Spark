@@ -1,5 +1,7 @@
 # Airbnb price analysis with Spark
 
+<iframe width='1200' height='800' src='/assets/html/paris_prices_scatter.html' frameborder='0'></iframe>
+
 ![](assets/airbnb_cover.png)
 
 The notebook of this folder presents how to use [Spark](https://spark.apache.org/) to clean, explore and model prices on the Paris Airbnb dataset.
